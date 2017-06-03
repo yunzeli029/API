@@ -1,0 +1,31 @@
+User Guide:
+1. download all of source codes, Android App, IOS App, API are saved in task folder, website folder, and a sql executable code.
+
+2. install PostgreSQL and EnterpriseDB-ApachePHP which supports the PostgreSQL database.
+
+3. modify the Apache's httpd.conf file which locates in apache/conf folder, remove all the annotation symbol of LoadModule. Then, set permit access to web content as below.
+#
+# Deny access to the entirety of your server's filesystem. You must
+# explicitly permit access to web content directories in other
+# <Directory> blocks below.
+#
+<Directory />
+    #AllowOverride none
+    #Require all denied
+    AllowOverride All
+    Require all granted
+
+    Order allow,deny
+    Allow from all
+</Directory>
+
+4. run the flu.sql in the PostgreSQL to set up the database.
+
+5. save the website folder and task folder under the www folder of installed EnterpriseDB-ApachePHP.
+
+6. change the IP address in AppConfig in Android App, the similar file in IOS App and website.
+
+7. change the database configuration in task/include/Config.php file.
+
+8. install the app on your devices.
+

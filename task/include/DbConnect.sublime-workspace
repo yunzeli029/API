@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/keke/Google 云端硬盘/Melbourne Study/SWEN90004 Modelling Complex Software Systems/assignment/1b/SUBMIT/discussion.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/XL_code/has_XL",
+		"/Users/keke/Desktop/by week",
+		"/Users/keke/Desktop/by week.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/XL_code/active_XLdrivers",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/UberXL/UberXL_SH_Time_XL_Booking",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/Surge_mulp.txt",
+		"/Users/keke/Google 云端硬盘/Melbourne Study/SWEN90004 Modelling Complex Software Systems/assignment/1A/final/makefile",
+		"/Users/keke/Google 云端硬盘/Melbourne Study/SWEN90004 Modelling Complex Software Systems/assignment/1A/reflection.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/session.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/UberXL/SH_EARN/Week.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/UberXL/UberXL_SH_City",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/UberXL/UberXL_SH",
+		"/Users/keke/Google 云端硬盘/uber_code/Pricing/Partner Economics Input Query.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/UberXL/UberXL_SH_Time",
+		"/Users/keke/Google 云端硬盘/uber_code/Pricing/Weekly Earnings.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Pricing/Trip_statics.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/XL_code/launch_date.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/XL_code/final geo sup",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/rating.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/nps.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/melb_mor_trip.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/melb_mor_trip2.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Pricing/Trip_statics",
+		"/Users/keke/Google 云端硬盘/uber_code/Pricing/Partner Economics Input Query",
+		"/Users/keke/Google 云端硬盘/uber_code/Toll/select2",
+		"/Users/keke/Google 云端硬盘/uber_code/Toll/select",
+		"/Users/keke/Google 云端硬盘/uber_code/Toll/With citydata as(",
+		"/Users/keke/Google 云端硬盘/uber_code/Toll/With toll as (",
+		"/Users/keke/Google 云端硬盘/uber_code/Surge_XL_Aus",
+		"/Users/keke/Google 云端硬盘/uber_code/For other/AR_CR",
+		"/Users/keke/Google 云端硬盘/uber_code/For other/TOLL_MESSAGE",
+		"/Users/keke/Google 云端硬盘/uber_code/GPS_TICKETS%",
+		"/Users/keke/Google 云端硬盘/uber_code/For other/TOLL",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/Sydney/avg_rating",
+		"/Users/keke/Google 云端硬盘/uber_code/For other/session_request",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/Sydney/with sessions as",
+		"/Users/keke/Google 云端硬盘/uber_code/XL_code/supply%_Geo",
+		"/Users/keke/Google 云端硬盘/uber_code/session_request.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Earning_SH",
+		"/Users/keke/Google 云端硬盘/uber_code/XL_code/by hour",
+		"/Users/keke/Google 云端硬盘/uber_code/XL_code/by period",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/fare.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/UberXL/total_eta.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/larger_avg_fare_trip.txt",
+		"/Users/keke/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/keke/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/keke/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/keke/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/keke/Google 云端硬盘/Melbourne Study/ISYS90086 DW/workshop/D5c/D5c-Customer3.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/geo_breakdown_by_week_begin.txt",
+		"/Users/keke/Google 云端硬盘/uber_code/Uber_Code/ZONE/With In_Zone8 As",
+		"/Users/keke/Google 云端硬盘/Melbourne Study/ISYS90086 DW/A2/transformation/ReadMe.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"driver_cohort",
+			"Time",
+			".java",
+			"xl_supplyhours",
+			"ilike",
+			"::dat",
+			"view",
+			"geo_count",
+			"gn.geo_count",
+			"selelig",
+			"dshm",
+			"hour",
+			"session",
+			"pe",
+			"g.city_id",
+			"g.city_id =",
+			"uber_geofences",
+			"geofences_all",
+			"rating",
+			"\t",
+			"avg_vehicle_fare",
+			"select \n    dd.driver_uuid,\n    dd.partner_city_id,\n    SUM(amount) as total_earnings,\n    (\n    SUM(CASE WHEN lpc.category ilike 'driver_payment%' THEN ct.amount END)\n    ) as fare_earnings\n \n    \n    from dim_driver dd \n    join cream_transactions ct on dd.driver_uuid = ct.subpayee_uuid  \n    join lookup_payment_category lpc on lpc.classification = ct.classification\n   \n    where dd.partner_city_id in ({{city_id}}) \n    and dd.is_uber_email is FALSE \n    and dd.delete_timestamp is NULL \n    and dd.driver_flow in ({{driver_flow}})\n    \n   \n    and ct.recognized_at AT TIMEZONE 'HKT' > NOW() - INTERVAL '6 months' \n    AND ct.classification != 'transport.fare.cash.collected'\n    AND ct.city_id in ({{city_id}})\n   \n    and (\n        lpc.category ilike 'driver_payment%' \n        )\n    \n    group by  1,2\n    \n    order by 1,2,3",
+			"t.city_id",
+			"\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".java \\",
+			"sd",
+			"ahds",
+			"Time",
+			"g.geo_uuid",
+			"g.uuid",
+			"geofences_all",
+			"uber_geofences"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DbConnect.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
